@@ -1,7 +1,7 @@
 ## 🌎 Hey world, I'm Liah!
 
 <p align="center">
-I started with the digital world in high school with the robotics team and took that into my life. From robotics, when we used Arduino, to a Professional Residency in Raspberry Pi and FPGA, my focus has always been microcontrollers and their peripherals. Although it's my focus, I'm not limited to it. I also took a short course in website creation and really enjoyed working with HTML, CS, and JavaScript. I'm also studying and learning to write programs with Python and C. Currently, I seek to expand my knowledge for the professional field, develop new experiences, and further enhance my learning.
+I started with the digital world in high school with the robotics team and took that into my life. From robotics, when we used Arduino, to a Professional Residency in Raspberry Pi and FPGA, my focus has always been microcontrollers and their peripherals. Although it's my focus, I'm not limited to it. I also took a short course in website creation and really enjoyed working with HTML, CSS and JavaScript. I'm also studying and learning to create programs with Python and C. Currently, I seek to expand my knowledge for the professional field, develop new experiences, and further enhance my learning.
 </p>
 
 <p align="center">
