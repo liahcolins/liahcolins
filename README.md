@@ -12,8 +12,8 @@ Focus in Microcontrollers and Peripherals 💻<br>
 <h2>📊 Statistics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=liahcolins&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liahcolins&layout=compact&theme=radical" alt="Top Langs"/>
+  <img height="180em" src="https://github-readme-stats-tau-teal.vercel.app/api?username=liahcolins&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats-tau-teal.vercel.app/api/top-langs/?username=liahcolins&layout=compact&theme=radical" alt="Top Langs"/>
 </p>
 
 <h2>💻 Technologies</h2>
